@@ -9,11 +9,15 @@
     }
   },
   "env": {
+    "angular": true,
     "browser": true,
     "mocha": true,
     "es6": true,
     "commonjs": true,
     "protractor": true
+  },
+  "globals": {
+    "angular": true
   },
   "rules": {
   }
