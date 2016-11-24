@@ -1,0 +1,10 @@
+{
+  "project_name": "project_name",
+  "repo_name": "{{ cookiecutter.project_name|replace(' ', '-')|lower }}",
+  "your_name": "Jan Florian Dietrich",
+  "your_email": "jfd@daenen4.de",
+  "your_website": "http://luhmann.me/",
+  "description": "nice_description",
+  "github_username": "luhmann",
+  "node_version": "6.9.1"
+}
